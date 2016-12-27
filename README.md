@@ -36,4 +36,4 @@ new Lovna($("#shower"), true)  // 在id=shower的html元素上展现内容
 
 可以参考 example.html
 
-预览网址: [talking.html](http://www.leegons.com/talking.html) （因为无良的阿里云，链接暂时失效）
+预览网址: [talking.html](http://www.leegons.com/talking.html)
